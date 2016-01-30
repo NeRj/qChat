@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>src/sound.png</file>
+        <file>src/sound_off.png</file>
+        <file>src/tools.png</file>
+        <file>src/user.png</file>
+        <file>src/user_comment.png</file>
+        <file>src/icon_ichat.png</file>
+        <file>src/image_photo.png</file>
+        <file>src/mail_send.png</file>
+        <file>src/quote.png</file>
+        <file>src/smile.png</file>
+        <file>src/avatar_32.png</file>
+        <file>src/avatara_32.png</file>
+        <file>src/info.png</file>
+    </qresource>
+    <qresource prefix="/new/images">
+        <file>src/chat-pillows.jpg</file>
+        <file>src/about.png</file>
+    </qresource>
+</RCC>
